@@ -1,0 +1,29 @@
+{
+  "name": "zvoicepolit",
+  "version": "1.0.0",
+  "description": "Ligacoes telefonicas em automatico utilizando uma API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jotagaribaldi/zvoicepolit.git"
+  },
+  "keywords": [
+    "calls",
+    "ligacoes",
+    "telefonica",
+    "mp3",
+    "audio"
+  ],
+  "author": "Joao Garibaldi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jotagaribaldi/zvoicepolit/issues"
+  },
+  "homepage": "https://github.com/jotagaribaldi/zvoicepolit#readme",
+  "dependencies": {
+    "totalvoice-node": "^1.12.0"
+  }
+}
